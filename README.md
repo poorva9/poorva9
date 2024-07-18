@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @poorva9
 - 👀 I’m interested in Machine Learning and Artificial Intelligence
 - 🌱 I’m currently learning Data Science and Analytics
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
 
 <!---
 poorva9/poorva9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
