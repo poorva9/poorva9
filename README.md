@@ -65,6 +65,4 @@ Welcome to my GitHub profile! I'm Poorva Pandya, a passionate Data Scientist and
 - **GitHub:** [poorva9](https://github.com/poorva9)
 
 Feel free to explore my projects and reach out for collaborations or queries. Let's connect and innovate together!
-poorva9/poorva9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
