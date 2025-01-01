@@ -1,4 +1,4 @@
-# Poorva Pandya's GitHub Projects
+# Poorva's GitHub Projects
 
 Welcome to my GitHub profile! I'm Poorva Pandya, a passionate Data Scientist and Analyst with expertise in machine learning, data analytics, and computer vision. Below, you'll find a summary of my education, work experience, projects, and skills.
 
@@ -61,7 +61,7 @@ Welcome to my GitHub profile! I'm Poorva Pandya, a passionate Data Scientist and
 ## 📫 Contact
 
 - **Email:** [poorvapandya09@gmail.com](mailto:poorvapandya09@gmail.com)
-- **LinkedIn:** [Poorva Pandya](https://www.linkedin.com/in/poorva-pandya)
+- **LinkedIn:** [Poorva](https://www.linkedin.com/in/poorva-pandya)
 - **GitHub:** [poorva9](https://github.com/poorva9)
 
 Feel free to explore my projects and reach out for collaborations or queries. Let's connect and innovate together!
